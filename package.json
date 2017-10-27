@@ -1,7 +1,8 @@
 {
   "name": "thunder-tango",
   "scripts": {
-    "start": "sh app.sh"
+    "start": "sh app.sh",
+    "startWithHistory": ""
   },
   "version": "1.0.0",
   "main": "app.js",
@@ -9,6 +10,6 @@
   "author": "Brandon <idhere703@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.9.0",
+    "eslint": "^4.9.0"
   }
 }

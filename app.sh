@@ -1,4 +1,9 @@
 # Thunder
-echo 'Feel the thunder.'
 
-# Decided to make this a shell script. Perhaps I'll remove the npm dependencies as well... 
+
+# Set Aliases
+alias cls='printf "\033c"'
+
+
+# Main
+echo 'Feel the thunder.'
