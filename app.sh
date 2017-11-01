@@ -1,9 +1,13 @@
 # Thunder
 
+# Variables:
+# name
 
 # Set Aliases
 alias cls='printf "\033c"'
 
 
 # Main
-echo 'Feel the thunder.'
+echo 'Enter Name:'
+read name
+echo $name
